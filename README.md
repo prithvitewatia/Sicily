@@ -73,7 +73,7 @@ java main.Main < test.txt
 
 ### Examples
 The source file
-![Source Code](https://github.com/prithvitewatia/Sicily/tree/main/doc_imgs/sly_test_file.png)
+![Source Code](https://github.com/prithvitewatia/Sicily/blob/main/docs_imgs/sly_test_file.png)
 And its output  
-![output](https://github.com/prithvitewatia/Sicily/tree/main/doc_imgs/frontendres.png)
+![output](https://github.com/prithvitewatia/Sicily/blob/main/docs_imgs/frontendres.png)
 
