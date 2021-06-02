@@ -3,7 +3,7 @@
 Sicily is the **front-end** of my small programming language.  
 It generates the intermediate code representation for the source code provided.  
 
-# Grammar
+### Grammar
 The grammar of the language is  
 ```
 program -> block
@@ -55,10 +55,10 @@ factor -> ( bool)
        -> false
 ```
 
-## Installation and usage
+### Installation and usage
 1. Clone the repository into your computer.  
 ```
-git clone repo
+git clone https://github.com/prithvitewatia/Sicily
 ```
 2. In the cloned repo directory create a class directory.  
 3. In the src directory compile the files by a java compiler
@@ -71,9 +71,9 @@ intermediate code by executing the following command in the class directory.
 java main.Main < test.txt
 ```
 
-## Examples
+### Examples
 The source file
-![Source Code](https://github.com/prithvitewatia/Sicily/blob/main/doc_imgs/sly_test_file.png)
+![Source Code](https://github.com/prithvitewatia/Sicily/tree/main/doc_imgs/sly_test_file.png)
 And its output  
-![output](https://github.com/prithvitewatia/Sicily/blob/main/doc_imgs/frontendres.png)
+![output](https://github.com/prithvitewatia/Sicily/tree/main/doc_imgs/frontendres.png)
 
